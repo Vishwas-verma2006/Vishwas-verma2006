@@ -37,7 +37,7 @@ Here are some of the projects I’ve worked on:
 - 🧾 **QR Code Generator** — built using Python to create custom QR codes.
 - 🤖 **Chatbot** — my own conversational bot designed to interact and answer queries.
 - 🔊 **Robo Speaker** — a Python-based text-to-speech project that converts text into voice.
-- ⚙️ And Many more you can check on Repositaries 
+- ➡️ And many more… you can check them out in my [repositories](https://github.com/Vishwas-verma2006?tab=repositories).
 
 
 Thanks for stopping by my profile! ✨  
