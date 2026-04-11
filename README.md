@@ -32,6 +32,17 @@
 - ✨ Strong believer in continuous learning and sharing knowledge with others
 
 ---
+
+## 🚀 My Language Journey Repo
+---------------------------
+✔ Python – mastered the art of simplicity and Automation
+✔ C – built strong foundations
+✔ C++ – explored power & performance
+---------------------------
+💻 A crafted space for code & creativity
+
+---
+
 ## 💡 Projects 
 Here are some of the projects I’ve worked on:
 - 🧾 **QR Code Generator** — built using Python to create custom QR codes.
