@@ -71,4 +71,5 @@
 ---
 
 ➡️ **...and many more!**  
-Explore the rest in my [repositories](https://github.com/Vishwas-verma2006).
+Explore the rest in my [repositories](https://github.com/Vishwas-verma2006?tab=repositories)
+
