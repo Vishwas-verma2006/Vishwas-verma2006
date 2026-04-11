@@ -33,15 +33,16 @@
 
 ---
 
-## 🚀 My Language Journey Repo
----------------------------
-✔ Python – mastered the art of simplicity and Automation
-✔ C – built strong foundations
-✔ C++ – explored power & performance
----------------------------
-💻 A crafted space for code & creativity
+## 🚀 Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
+
+
 
 ## 💡 Projects 
 Here are some of the projects I’ve worked on:
