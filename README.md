@@ -14,8 +14,13 @@
 ---
 
 ## 🏆 Achievements
-- Quickdraw ⚡ — closed issues lightning fast  
-- Pull Shark 🦈 — merged pull requests and contributed code  
+
+- ⚡ **Quickdraw** — closed issues lightning fast  
+![Issues Closed](https://img.shields.io/badge/Issues-Closed-success?style=for-the-badge&logo=github)
+
+- 🦈 **Pull Shark** — merged pull requests and contributed code  
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Merged-blue?style=for-the-badge&logo=github)
+
 
 ---
 
@@ -43,13 +48,27 @@
 ---
 
 
+## 💡 Projects Showcase
 
-## 💡 Projects 
-Here are some of the projects I’ve worked on:
-- 🧾 **QR Code Generator** — built using Python to create custom QR codes.
-- 🤖 **Chatbot** — my own conversational bot designed to interact and answer queries.
-- 🔊 **Robo Speaker** — a Python-based text-to-speech project that converts text into voice.
-- ➡️ And many more… you can check them out in my [repositories](https://github.com/Vishwas-verma2006?tab=repositories).
+✨ **QR Code Generator**  
+🧾 Crafted in Python to generate sleek, customizable QR codes.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
 
-Thanks for stopping by my profile! ✨  
+✨ **Chatbot**  
+🤖 A conversational bot designed to interact, assist, and answer queries.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+✨ **Robo Speaker**  
+🔊 Python-based text-to-speech tool that transforms text into voice.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TTS](https://img.shields.io/badge/Text--to--Speech-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+➡️ **...and many more!**  
+Explore the rest in my [repositories](https://github.com/Vishwas-verma2006).
